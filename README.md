@@ -1,4 +1,6 @@
 <h1 align="center">Hi,I'm Aditya Agarwal</h1>
+- 📫 How to reach me **adityaagarwaltlf@gmail.com**
+
 <p align="left">
 </p>
 
